@@ -8,7 +8,7 @@ This project explores patterns in Drug Overdose deaths from 2018-2023 in the sta
 - Race
 - Location of overdose death (city, county, state, zip code)
 - Location of Injury (ie. Home, Others' Residence, Outdoors, Vehicle, etc.)
-- Binary values representing whether or not each of the below drugs were detected in the individuals postmortem toxicology test:
+- _Binary values representing whether or not each of the below drugs were detected in the individuals postmortem toxicology test:_
 - Heroin
 - Cocaine
 - Fetanyl
