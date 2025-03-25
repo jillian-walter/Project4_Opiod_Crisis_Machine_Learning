@@ -68,6 +68,7 @@ Prior to initializing the model, we went through multiple steps to "remove noise
 
 As a final step to prepare our data for K-Means clustering, we used the function **pd.get_dummies** to transform string values into their own columns with True/False values. To align with the Drug-Data, we then transformed True = 1 and False = 0. This allows us to easily see the shares of each cluster that are Positive/Negative for each Demographic feature and each Drug Type. 
 
+# Elbow Method and K-Means Cluster Model Creation:
 
 _steps for K-means cluster - JW will add later_
 
