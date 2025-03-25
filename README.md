@@ -43,12 +43,8 @@ In Jupyter Notebook, we started by importing our necessary dependencies for the 
 our team utilized a SQLite file to read in the data, connecting to the database and reading in the data using the below commands:
 
   db_name = "opioid_analysis.sqlite"
-  
   conn = sqlite3.connect(db_name)
-  
   cursor = conn.cursor()
-
   query = "SELECT * FROM ct_opioiddata_final;"
-  
   opioid_df = pd.read_sql(query, conn)
 
