@@ -52,12 +52,11 @@ After reading in the data from the database, we began to familiarize ourselves w
 
 Our first exploration gives us a topline view of **Drug Deaths by Month between 2018-2023** to help us identify any seasonal patterns in drug overdoses in CT. 2021 had the maximum number of incidents, with drug deaths growing by year prior to that. Drug deaths have declined YoY over the last 2 years, but still surpass pre-pandemic levels. Our initial hypothesis was that the winter months would see the highest number of deaths due to seasonal depression, but it was found that peak summer months (May-July) had the highest number of deaths on average.
 
-_can change order, just listing for placeholders_
-**visualization 2 description + findings - Marina**
+**visualization 2 description + findings - Kehleboe**
 
 **visualization 3 description + findings - Carleigh**
 
-**visualization 4 description + findings - Kehleboe**
+**visualization 4 description + findings - Marina**
 
 
 # Cleaning and Transforming the Data for K-Means Clustering:
