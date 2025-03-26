@@ -70,9 +70,18 @@ As a final step to prepare our data for K-Means clustering, we used the function
 
 # Elbow Method and K-Means Cluster Model Creation:
 
-_steps for K-means cluster - JW will add later_
+To perform the Cluster Analysis, we need to start by determining the optimal number of clusters. Using the Elbow Method to calculate inertia at each of the cluster numbers in the For Loop, we found 7 clusters to be the optimal number of clusters for the 7.5k data records. 
+![image](https://github.com/user-attachments/assets/abeb8dd7-664b-439e-a665-c334a68cb4ca)
+
+We then work to define the K-Means model with 7 clusters and a random state of 3 for reproducability. This model is then fit and predict the Opioid dummy data created above. Once the model is fitted and predictions are made, we create an additional cluster column for each record in the dataframe, to assign the record to its respective cluster. 
+For analysis, given the volume of columns, we start by looking at the demographic columns (Sex, Race, Place of Death). We create a new dataframe called cluster_averages_demographics, using the **groupby()** and **mean()** functions to get the average value of each cluster for each column. Because all values in the dataframe are 0 or 1, the average represents the _share_ of individuals in that dataframe that are positive/True for each of the columns. We used the **style.format()** function to change the format of the averages to percentages for easier readability. The same process is repeated for a second cluster_averages_drugtypes, which looks at the share of each cluster that tested positive for each drug. Screenshot examples of these tables used in analysis are below:
+
+![image](https://github.com/user-attachments/assets/46634577-83ad-44ee-839a-93b82bbeca38)
+![image](https://github.com/user-attachments/assets/23f5846f-b944-44f7-b8cd-1ae10975a99b)
 
 # Cluster Characteristics:
+
+**Summary:**
 
 **Cluster 1:**
 - More than 99% of the individuals in this cluster are men and a 100% of them are Black
