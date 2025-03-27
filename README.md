@@ -89,9 +89,9 @@ Fentanyl was overall found in at least 72% (up to 89%) of deaths in each cluster
 - Cocaine and Fentanyl were most commonly found in their bodies (55 and 86%, respectively), and it's a pretty close number when compared to the second cluster that we found, which varies more in race.
 
 **Cluster 2:**
-- This is another cluster composed of more than 99% men, but most on this one most of them are White, and White (Hispanic)
+- This is another cluster composed of more than 99% men, but on this one most of them are White, and White (Hispanic)
 - 100% of deceased in this cluster were found in someone else's Residence.
-- This is the only cluster where Benzodiapine was not found in any of the deceased. As with all the other clusters, Fentanyl was found at the highest rate (84%), followed by Cocaine, Ethanol and Heroin.
+- This is the only cluster where Benzodiazepine was not found in any of the deceased. As with all the other clusters, Fentanyl was found at the highest rate (84%), followed by Cocaine, Ethanol and Heroin.
 - Compared to the other clusters, this is the lowest in Oxycodone (5%), and very low rates of Oxymorphone, Hydrocodone, and Hydromorphone
 
 **Cluster 3:**
