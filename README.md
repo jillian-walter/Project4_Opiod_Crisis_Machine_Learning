@@ -81,7 +81,7 @@ For analysis, given the volume of columns, we start by looking at the demographi
 # Cluster Characteristics:
 
 **Summary:**
-Fentanyl was overall found in at least 72%, up to 89% of deaths in each cluster, indicating that it is a primary factor of death. Incidentally, cocaine is found at the second highest rate across clusters, aligning with the hypothesis that many Cocaine deaths were due to the drug being laced with Fetanyl. 85% of Cocaine deaths also had Fetanyl present, with similar patterns across other drug types.  Given the amount of drugs in each individual (average 2.4 drugs per individuals) it can be hypothesised that users were not knowingly buying drugs that were pure (were likely laced with other drugs). According to the CDC, Fetanyl is extremely potent: 50x stronger than Heroin and 100x stronger than Morphine. 
+Fentanyl was overall found in at least 72% (up to 89%) of deaths in each cluster, indicating that it is a primary factor of death. Incidentally, cocaine is found at the second highest rate across clusters, aligning with the hypothesis that many Cocaine deaths were due to the drug being laced with Fetanyl. 85% of Cocaine deaths also had Fetanyl present, with similar patterns across other drug types.  Given the amount of drugs in each individual (average 2.4 drugs per individuals) it can be hypothesised that users were not knowingly buying drugs that were pure (were likely laced with other drugs). According to the CDC, Fetanyl is extremely potent: 50x stronger than Heroin and 100x stronger than Morphine. 
 
 **Cluster 1:**
 - More than 99% of the individuals in this cluster are men and a 100% of them are Black
