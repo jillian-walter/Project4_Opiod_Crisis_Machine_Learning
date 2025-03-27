@@ -81,6 +81,8 @@ For analysis, given the volume of columns, we start by looking at the demographi
 # Cluster Characteristics:
 
 **Summary:**
+Fentanyl was overall found in at least 72%, up to 89% of deaths in each cluster, indicating that it is a primary factor of death. Incidentally, cocaine is found at the second highest rate across clusters, aligning with the hypothesis that many Cocaine deaths were due to the drug being laced with Fetanyl. 85% of Cocaine deaths also had Fetanyl present, with similar patterns across other drug types.  Given the amount of drugs in each individual (average 2.4 drugs per individuals) it can be hypothesised that users were not knowingly buying drugs that were pure (were likely laced with other drugs). According to the CDC, Fetanyl is extremely potent: 50x stronger than Heroin and 100x stronger than Morphine. 
+Overall there are 2 Female clusters and 5 Male clusters. Female clusters tended to be more racially diverse, and also tend to gravitate towards a wider range of drugs than the male clusters, seeing higher than average rates towards less-common drugs such as Benzodiazepines, Methadone and Tramadol. Clusters with higher rates of Cocaine & Fetanyl tended to have a wider array of injury locations, but were more concentrated in Hotel/Motel, Others' Residence, Other Business, indicating that the drug was being used socially. Cluster 2 represented the more "stereotypical" pattern of Opioid deaths, over-indexing in Oxycodone and Fetanyl and being 100% White Males in their Own Home.
 
 **Cluster 1:**
 - More than 99% of the individuals in this cluster are men and a 100% of them are Black
@@ -94,10 +96,19 @@ For analysis, given the volume of columns, we start by looking at the demographi
 - Compared to the other clusters, this is the lowest in Oxycodone (5%), and very low rates of Oxymorphone, Hydrocodone, and Hydromorphone
 
 **Cluster 3:**
+- This cluster predominantly consists of white males (the highest Race-White share across groups at 96.5%) who passed away in their own homes (100% of deaths)
+- This cluster over-indexed in Fentanyl and Oxycodone, ranking second highest across clusters in Fentanyl share of deaths (87%). Oxycodone rates were lower than other drug types at 15%, but they saw higher rates of this drug than any other cluster.
+- Morphine rates were lowest in this cluster compared to other clusters.
 
 **Cluster 4:**
+- This cluster is one of two female clusters, with individuals across races but overall less racially diverse than cluster  6, with nearly all individuals being White (81%) or Hispanic (6%)
+- 100% of these women were found deceased in another's home, while the other Female cluster saw mixtures of death locations, though primarily in their own home
+- This cluster saw lower than average rates of the more popular drugs across other clusters, such as Heroin, Cocaine and Fentanyl (ranking lowest/second lowest in terms of shares across those drugs)
+- Rather, these individuals saw higher than average shares (ranking top or second) for less popular drugs such as Hydrocodone, Benzodiazepines, Methadone, Tramadol and Hydromorphone
 
 **Cluster 5:**
+- This cluster was similar to cluster 4, but Male. This group was also less racially diverse than other groups, seeing 94% of the individuals being White and 4% being Hispanic. These individuals were largely found in another's home, similar to cluster 4.
+- 100% of these individuals were found with Benzodiazepines, the highest across any cluster. This type of drug is used to treat Anxiety Disorders. Methamphetamine is also higher than any other cluster within this cluster, which is used to treat ADHD. This can indicate that those in this cluster were abusing prescription drugs, clinically used to treat ADHD + Anxiety, for sedative effects.
 
 **Cluster 6:**
 - Female
