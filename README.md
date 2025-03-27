@@ -1,5 +1,5 @@
 # Inside Connecticut's Opioid Crisis: A Deep Dive into Drug-Related Deaths Using Unsupervised Machine Learning
-Project 4 Penn Data Bootcamp | Jillian Walter, Carleigh West, Marina Connelly, Kehleboe Gongloe
+Project 4 Penn Data Bootcamp | Jillian Walter, Carleigh West, Marina Connolly, Kehleboe Gongloe
 
 **Background:**
 
