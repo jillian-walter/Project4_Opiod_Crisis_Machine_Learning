@@ -54,7 +54,8 @@ Our first exploration gives us a topline view of **Drug Deaths by Month between 
 
 **visualization 2 description + findings - Kehleboe**
 
-**visualization 3 description + findings - Carleigh**
+Our third exploration looks at **Total Deaths by Drug Type between 2018-2023 in Connecticut** which helped us to determine the drugs responsible for the most deaths. Fentanyl, Cocaine, and Ethanol (alcohol) were the leading culprits in this data set, followed closely by Benzodiazepines and Heroin. I think it is important to recognize, whe exploring this part of the data, that the number of fentanyl deaths being the highest corraborates the facts and statistics about Fentanyl and its position in the opioid epidemic. A Time article from September 2024 reports that fentanyl-related overdose deaths increased from 3,000 in 2013 to over 71,000 in 2022, underscoring the dramatic rise in fentanyl's impact.
+
 
 **visualization 4 description + findings - Marina**
 
@@ -122,3 +123,8 @@ Fentanyl was overall found in at least 72% (up to 89%) of deaths in each cluster
 - They tend to be White (84%) or Hispanic (11%)
 - Over-indexing compared to other clusters in Ethanol & Fetanyl usage - highest share for these two drug types across clusters at over 89% testing positive for Fetanyl and 33% testing positive for Ethanol
 - They gravitate towards Meth/Amphetamine, Hydromorphone, Oxymorphone and Oxycodone at lower rates than other clusters
+
+**Sources:**
+- https://nypost.com/2025/03/19/us-news/revolutionary-nyc-program-for-addicts-has-fatal-overdoses-plummeting/
+- https://time.com/7023415/the-truth-about-fentanyl-essay/
+- https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html
