@@ -57,7 +57,9 @@ Our first exploration gives us a topline view of **Drug Deaths by Month between 
 Our third exploration looks at **Total Deaths by Drug Type between 2018-2023 in Connecticut** which helped us to determine the drugs responsible for the most deaths. Fentanyl, Cocaine, and Ethanol (alcohol) were the leading culprits in this data set, followed closely by Benzodiazepines and Heroin. I think it is important to recognize, whe exploring this part of the data, that the number of fentanyl deaths being the highest corraborates the facts and statistics about Fentanyl and its position in the opioid epidemic. A Time article from September 2024 reports that fentanyl-related overdose deaths increased from 3,000 in 2013 to over 71,000 in 2022, underscoring the dramatic rise in fentanyl's impact.
 
 
-**visualization 4 description + findings - Marina**
+For the next visualization we wanted to explore a map plotting the deaths from 2018-2023 throughout Connecticut. We then divided our map to show each year of data we had available. 
+We decided to use Tableau for this analysis as we wanted to make it dynamic.
+Starting in 2018, we show the number of deaths color-separated by male and female. Then we created a Parameter that depicts death per drug, making the map dynamic. We also created a layer to show population density per Zip Code. The Map shows that the Mid-South corridor has been the most affected throughout the years. Even for the least-found drugs.
 
 
 # Cleaning and Transforming the Data for K-Means Clustering:
